@@ -1,2 +1,3 @@
-# vibe
-Vibecoding 
+# Vibecoding for Someone
+
+1. 
